@@ -1,0 +1,23 @@
+vulcan\.*;Linux/Rebirth variant Vulcan - next-gen of Qbot/Torlus/Bashlite influenced by Mirai https://www.virustotal.com/en/file/73c3aae862b66d97d6584544e3c01ae7969c3b7c513b8
+/etc/cron\.d/httpsd;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+/etc/rc\.local;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+/tmp/\.httpslog;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+/tmp/\.httpspid;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+/tmp/\.httpsd;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+/bin/httpsd;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+/tmp/\.httpskey;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+i686\.log;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+armv5\.log;Linux/Httpsd (Linux Malware/Trojan Backdoor, Downloader, Remote execution) https://imgur.com/a/8mFGk / https://www.virustotal.com/en/file/1b3718698fae20b63
+%AppData%\\Local\\Temp\\bootloader\.dec;RTF Exploit Installs Italian RAT: uWarrior http://researchcenter.paloaltonetworks.com/2015/08/rtf-exploit-installs-italian-
+%AppData%\\Roaming\\warriors\.dat;RTF Exploit Installs Italian RAT: uWarrior http://researchcenter.paloaltonetworks.com/2015/08/rtf-exploit-installs-italian-
+dllhost\.dat;Petya Ransomware Fast Spreading Attack https://twitter.com/JoKe_42/status/879693258183647232 / https://twitter.com/crai
+C:\\WINDOWS\\tasksche\.exe;WannaCry Indicators https://ghostbin.com/paste/xgvdv / https://www.alienvault.com/blogs/labs-researc
+C:\\Windows\\mssecsvc\.exe;WannaCry Indicators https://ghostbin.com/paste/xgvdv / https://www.alienvault.com/blogs/labs-researc
+_DECRYPT_FILE\.html;Erebus Resurfaces as Linux Ransomware http://blog.trendmicro.com/trendlabs-security-intelligence/erebus-resurfaces-as-
+_DECRYPT_FILE\.txt;Erebus Resurfaces as Linux Ransomware http://blog.trendmicro.com/trendlabs-security-intelligence/erebus-resurfaces-as-
+/Users/_%User%_/Library/LaunchAgents/com\.apple\.Safari\.pac\.plist;OSX/Dok - OSX Malware http://blog.checkpoint.com/2017/04/27/osx-malware-catching-wants-read-https-traf
+/Users/_%User%_/Library/LaunchAgents/com\.apple\.Safari\.proxy\.plist;OSX/Dok - OSX Malware http://blog.checkpoint.com/2017/04/27/osx-malware-catching-wants-read-https-traf
+READ ME ABOUT DECRYPTION\.txt;Analyzing the Fileless, Code-injecting SOREBRECT Ransomware http://blog.trendmicro.com/trendlabs-security-intelligence/analyzing-fileless-co
+C:\\Flash player\\vlc\.exe;New Kasper samples https://www.hybrid-analysis.com/sample/6a48b5211b622ffe49ae4e32ada72bb4d9db40576
+nya;MMD-0058-2016 - Linux/Nyabot http://blog.malwaremustdie.org/2016/10/mmd-0058-2016-elf-linuxnyadrop.html / 
+nyadrop;MMD-0058-2016 - Linux/Nyabot http://blog.malwaremustdie.org/2016/10/mmd-0058-2016-elf-linuxnyadrop.html / 
